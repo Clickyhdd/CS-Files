@@ -1,1 +1,1 @@
-My Files for [open source society computer science](https://github.com/open-source-society/computer-science)
+My Files for the [open source society computer science Program](https://github.com/open-source-society/computer-science)
