@@ -1,0 +1,9 @@
+(require 2htdp/image)
+
+(above(text "Hello World" 30 "blue")( beside
+ (circle 20"solid" "red")
+ (circle 20"solid" "blue")
+ (circle 20"solid" "green")
+ (circle 20"solid" "gray")
+ (circle 20"solid" "purple")
+ (circle 20"solid" "black")))
